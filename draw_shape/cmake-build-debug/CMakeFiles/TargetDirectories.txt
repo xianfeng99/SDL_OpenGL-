@@ -1,0 +1,3 @@
+/Users/lixianfeng/CLionProjects/SDL_OpenGL_workspace/draw_shape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixianfeng/CLionProjects/SDL_OpenGL_workspace/draw_shape/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixianfeng/CLionProjects/SDL_OpenGL_workspace/draw_shape/cmake-build-debug/CMakeFiles/draw_shape.dir
